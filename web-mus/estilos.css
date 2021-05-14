@@ -1,0 +1,141 @@
+.web {
+  background-color: #F3D8D8
+}
+
+.myButton2 {
+  box-shadow: 0px 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+  background-color: #599bb3;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #3d768a;
+}
+
+.myButton2:hover {
+  background: linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+  background-color: #408c99;
+}
+
+.myButton {
+  box-shadow: inset 0px 39px 0px -24px #e67a73;
+  background-color: #e4685d;
+  border-radius: 4px;
+  border: 1px solid #ffffff;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 28px;
+  padding: 6px 15px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #b23e35;
+}
+
+.myButton:hover {
+  background-color: #eb675e;
+}
+
+.myButton, .myButton2 {
+  text-align: center;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 70px;
+}
+
+h3 {
+  font-size: 50px;
+}
+
+.cabecera {
+  background-color: grey;
+}
+
+.logo {
+  width: 12.85%;
+  float: left;
+}
+
+.especial, .especial2, .especial3 {
+  width: 200px;
+  height: 500px;
+}
+
+.especial {
+  background-color: #C8C6C6;
+  display: inline-block;
+  margin-right: 60px;
+
+}
+
+.especial2 {
+  background-color: #C8C6C6;
+  display: inline-block;
+  margin-right: 60px;
+}
+
+.especial3 {
+  background-color: #C8C6C6;
+  display: inline-block;
+}
+
+.actividades {
+  text-align: center;
+}
+
+.actividades1 {
+  text-align: center;
+  background-color: #FFA895;
+}
+
+.actividades1:hover {
+  background-color: yellow;
+}
+
+.botones {
+  text-align: center;
+}
+
+.topo {
+  float: right;
+  width: 15%
+}
+
+.contenedor-inferior {
+  text-align: center
+}
+
+p {
+  font-size: 25px;
+}
+
+li {
+  font-size: 40px;
+}
+
+.enlace-pie1 {
+  margin-right: 10px;
+}
+
+.enlace-pie2 {
+  margin-left: 10px;
+}
